@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as a Front-End developer<br>- 📚 I'm currently learning Node js, Vue and firebase<br>- ⚡ In my free time I read some novels</p>
+<p align="left">- 🔭 I’m working as a Full-Stack engineer<br>- 📚 I'm currently learning Mobile dev<br>- ⚡ In my free time I read some novels</p>
 
 ###
 
